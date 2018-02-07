@@ -36,3 +36,6 @@ publication_type = "-1"
 exclude_selected = false
 +++
 
+Semidefinite programming strong converse bounds for classical capacity
+Xin Wang, Wei Xie, and Runyao Duan
+IEEE Trans. Inf. Theory 64 (1), 640-653, 2018.
