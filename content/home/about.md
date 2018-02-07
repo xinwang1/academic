@@ -30,9 +30,9 @@ weight = 5
 
 # Biography
 
-My name in simplified Chinese is 王鑫.
+I am currently a Ph.D. candidate at the University of Technology Sydney’s Centre for Quantum Software and Information (UTS:QSI). My supervisor at UTS is Prof. Runyao Duan and my external supervisor is Prof. Andreas Winter (Universitat Autònoma de Barcelona). 
 
-I am currently a Ph.D. candidate at the University of Technology Sydney’s Centre for Quantum Software and Information (UTS:QSI). My supervisor at UTS is Prof. Runyao Duan and my external supervisor is Prof. Andreas Winter (Universitat Autònoma de Barcelona). Before coming to UTS, I obtained my B.S. in 2014 from the Wu Yuzhang Honors College and Mathematics Department at Sichuan University.
+Please see my CV for more details.
 
 
 
