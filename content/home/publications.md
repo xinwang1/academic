@@ -37,4 +37,10 @@ exclude_selected = false
 +++
 
 
-# 1 sss
+1. Gaussian quantum resource theories  
+Ludovico Lami, Bartosz Regula, Xin Wang, Rosanna Nichols, Andreas Winter, Gerardo Adesso  
+arXiv:1801.05450.
+
+2. Converse bounds for classical communication over quantum networks  
+Wei Xie, Xin Wang, and Runyao Duan  
+arXiv:1712.05637.
