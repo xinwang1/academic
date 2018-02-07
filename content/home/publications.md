@@ -36,6 +36,10 @@ publication_type = "-1"
 exclude_selected = false
 +++
 
-Semidefinite programming strong converse bounds for classical capacity
-Xin Wang, Wei Xie, and Runyao Duan
-IEEE Trans. Inf. Theory 64 (1), 640-653, 2018.
+
+*Quantum Shannon theory is the study of the ultimate performance of communication with quantum systems. One of my primary topics is to characterize the communication capabilities of quantum channels under both finite blocklength and asymptotic regime. The asymptotic regime focuses on the ultimate limits of communication, while the finite blocklength regime focuses on a more practical scenario of optimizing the trade-off between the channel uses, communication rate, and error probability. For example, I want to understand the fundamental limits for classical and quantum communication via quantum channels:
+
+*Quantum entanglement is a key ingredient in many quantum information processing tasks, including teleportation, superdense coding, and quantum cryptography. The concept of entanglement as a resource in quantum information theory motivates us to study how to detect, quantify, manipulate and use entanglement. Good examples of my results in this area are as follows:
+
+
+
