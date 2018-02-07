@@ -30,6 +30,10 @@ weight = 5
 
 # Biography
 
-XW
+My name in simplified Chinese is 王鑫.
+
+I am currently a Ph.D. candidate at the University of Technology Sydney’s Centre for Quantum Software and Information (UTS:QSI). My supervisor at UTS is Prof. Runyao Duan and my external supervisor is Prof. Andreas Winter (Universitat Autònoma de Barcelona). Before coming to UTS, I obtained my B.S. in 2014 from the Wu Yuzhang Honors College and Mathematics Department at Sichuan University.
+
+My research interests vary from quantum Shannon theory, entanglement theory to quantum computation theory. I am specifically interested in optimization problems in quantum information and computation.
 
 
