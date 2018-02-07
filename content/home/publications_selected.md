@@ -58,7 +58,7 @@ Xin Wang and Runyao Duan
 Physical Review A (Rapid Communication) 94, 050301, 2016.
 
 ## Zero-Error Information Theory
-While the ordinary Shannon theory studies the communication with asymptotically vanishing errors, Shannon also investigated the information theory when errors are required to be strictly zero, which is known as the zero-error information theory.  In this area, the communication problem reduces to the study of the so-called confusability graph (non-commutative graph) of a classical channel (quantum channel). A good example of my research in this area is proving the separation between the quantum Lovász number and entanglement-assisted zero-error capacity:
+While the ordinary Shannon theory studies the communication with asymptotically vanishing errors, Shannon also investigated the information theory when errors are required to be strictly zero, which is known as the zero-error information theory.  In this area, the communication problem reduces to the study of the so-called confusability graph (non-commutative graph) of a classical channel (quantum channel). A good example of my research in this area is as follows:
 
 - Separation between quantum Lovász number and entanglement-assisted zero-error capacity  
 Xin Wang and Runyao Duan  
