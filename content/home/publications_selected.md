@@ -32,7 +32,7 @@ publication_type = "-1"
 +++
 
 ## Quantum Shannon theory 
-Quantum Shannon theory is the study of the ultimate performance of communication with quantum systems. One of my primary topics is to characterize the communication capabilities of quantum channels under both finite blocklength and asymptotic regime. The asymptotic regime focuses on the ultimate limits of communication, while the finite blocklength regime focuses on a more practical scenario of optimizing the trade-off between the channel uses, communication rate, and error probability. For example, I want to understand the fundamental limits for classical and quantum communication via quantum channels:
+Quantum Shannon theory is the study of the ultimate performance of communication with quantum systems. One of my primary topics is to characterize the communication capabilities of quantum channels under both finite blocklength and asymptotic regime. The asymptotic regime focuses on the ultimate limits of communication, while the finite blocklength regime focuses on a more practical scenario of optimizing the trade-off between the channel uses, communication rate, and error probability. Good examples of my results in this area are as follows:
 
 - Semidefinite programming strong converse bounds for classical capacity  
 Xin Wang, Wei Xie, and Runyao Duan  
